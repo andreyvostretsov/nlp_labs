@@ -1,0 +1,7 @@
+pymorphy3>=2.0
+pymorphy3-dicts-ru>=2.4
+nltk>=3.9
+pytest>=7
+jupyter>=1.0
+nbconvert>=7.10
+ipykernel>=6.20
