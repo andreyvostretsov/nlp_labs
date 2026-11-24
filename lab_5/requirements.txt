@@ -1,0 +1,16 @@
+# Лабораторная работа 5 (LSTM + sequence-to-sequence на PyTorch).
+# Нормализация и разбиение на предложения переиспользуются из lab_1
+# (pymorphy3, nltk); косинусная близость и загрузчики — из lab_2 (scipy);
+# семантическое ядро CNN/GRU — из lab_4 (torch).
+# matplotlib — необязателен (только визуализация в ноутбуке, try/except).
+torch>=2.0
+numpy>=1.26,<3
+scipy>=1.10,<1.14
+matplotlib>=3.7,<3.9
+pymorphy3>=2.0
+pymorphy3-dicts-ru>=2.4
+nltk>=3.9
+pytest>=7
+jupyter>=1.0
+nbconvert>=7.10
+ipykernel>=6.20
